@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">I’m a Desktop Application Developer with a proven track record of creating user-friendly, high-performance apps. My expertise spans across Electron, Qt, MFC, and Xamarin, enabling me to craft applications tailored to your specific needs.<br><br>Do you wanna build an idea?<br>Come on, let's go and play</p>
+<p align="left">I’m a Desktop Application Developer with a proven track record of creating user-friendly, high-performance apps. My expertise spans across Electron, Qt, MFC, and Xamarin, enabling me to craft applications tailored to your specific needs.</p>
+<p align="left">Do you wanna build an idea?<br>Come on, let's go and play</p>
 
 ###
 
