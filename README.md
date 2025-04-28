@@ -1,4 +1,4 @@
-<h2 align="left">Hi everyone👋! I'm Olaf and I love warm hugs</h2>
+<h2 align="left">Hi everyone👋! I'm Olaf and I like warm hugs</h2>
 
 ###
 
