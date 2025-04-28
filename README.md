@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I’m a Desktop Application Developer with a proven track record of creating user-friendly, high-performance apps. My expertise spans across Electron, Qt, MFC, and Xamarin, enabling me to craft applications tailored to your specific needs.</p>
-<p align="left">Do you wanna build an idea?<br>Come on, let's go and play</p>
+<p align="left">Do you wanna build an idea?<br>Come on, let's code all day!<br>I never seem to have enough time,<br>But I swear, we'll ship it soon, okay?<br><br>Do you wanna fix a bug here?<br>It’s not that big, I swear!<br>We’ll debug and deploy with care,<br>And make this app a masterpiece, with flair!<br><br>Do you wanna test and deploy now?<br>I promise, it'll work just fine!<br>Just a few tweaks here and there,<br>Then we'll have it ready to shine!</p>
 
 ###
 
