@@ -65,3 +65,28 @@
 <img src="https://raw.githubusercontent.com/Frozen-210/Frozen-210/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## ❄️☕ Give This Snow Queen a Coffee!
+
+> 👸 "Even in Arendelle, coding freezes without coffee..."
+
+Anna: *"Elsa, you’ve been coding all night!"*  
+Elsa: *"Yes. But GitHub stars don't pay for coffee..."*  
+Anna: *"Then let them support you!"*  
+Olaf: *"Ooooh, I love warm coffees!"* ☕
+
+💙 **Support Elsa’s coding magic with a coffee on any of these chains:**  
+
+- **Ethereum Mainnet**
+- **Linea**
+- **Binance Smart Chain (BSC)**  
+
+**Wallet Address (all networks):**  
+`0xAa2d77aa39C4CE75D17647a1092C138cBDaB5216`
+
+![Wallet QR Code](https://github.com/Frozen-210/Frozen-210/blob/main/crypto_wallet_qr.png)
+
+---
+
+> 💙 *Thanks for melting my icy deadlines with your support!*
+
