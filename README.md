@@ -77,14 +77,8 @@ Olaf: *"Ooooh, I love warm coffees!"* ☕
 
 💙 **Support Elsa’s coding magic with a coffee on any of these chains:**  
 
-- **Ethereum Mainnet**
-- **Linea**
-- **Binance Smart Chain (BSC)**  
-
-**Wallet Address (all networks):**  
-`0xAa2d77aa39C4CE75D17647a1092C138cBDaB5216`
-
-![Wallet QR Code](https://github.com/Frozen-210/Frozen-210/blob/main/crypto_wallet_qr.png)
+- **Ethereum, BSC, BTTC:** `0xAa2d77aa39C4CE75D17647a1092C138cBDaB5216`
+- **TRON:** `0xAa2d77aa39C4CE75D17647a1092C138cBDaB5216`
 
 ---
 
