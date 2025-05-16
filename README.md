@@ -77,7 +77,7 @@ Olaf: *"Ooooh, I love warm coffees!"* ☕
 
 💙 **Support Elsa’s coding magic with a coffee on any of these chains:**  
 
-- **Bitcoin (Native SegWit)**: bc1q2cmple6ukd6gpcvgmtmpz6hrw52nnws87eqdcz
+- **Bitcoin (Native SegWit)**: `bc1q2cmple6ukd6gpcvgmtmpz6hrw52nnws87eqdcz`
 - **Ethereum, BSC, BTTC:** `0xAa2d77aa39C4CE75D17647a1092C138cBDaB5216`
 - **TRON:** `0xAa2d77aa39C4CE75D17647a1092C138cBDaB5216`
 
