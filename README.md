@@ -3,7 +3,46 @@
 ###
 
 <p align="left">I’m a Desktop Application Developer with a proven track record of creating user-friendly, high-performance apps. My expertise spans across Electron, Qt, MFC, and Xamarin, enabling me to craft applications tailored to your specific needs.</p>
-<p align="left">Do you wanna build an idea?<br>Come on, let's code all day!<br>I never seem to have enough time,<br>But I swear, we'll ship it soon, okay?<br><br>Do you wanna fix a bug here?<br>It’s not that big, I swear!<br>We’ll debug and deploy with care,<br>And make this app a masterpiece, with flair!<br><br>Do you wanna test and deploy now?<br>I promise, it'll work just fine!<br>Just a few tweaks here and there,<br>Then we'll have it ready to shine!</p>
+<p align="left">
+Do you wanna build an idea?<br />
+Come on, let’s code away!<br />
+I never see your commits anymore,<br />
+Come out the door,<br />
+It’s like you’ve gone away!<br />
+<br />
+We used to be coding buddies,<br />
+And now we’re not,<br />
+I wish you would tell me why!<br />
+<br />
+Do you wanna build an idea?<br />
+It doesn’t have to be perfect…<br />
+<br />
+Do you wanna fix a bug here?<br />
+Come on, let’s take a look!<br />
+There’s something wrong deep in the code,<br />
+It’s in that node,<br />
+It’s got us kinda shook…<br />
+<br />
+We’ll trace it through the breakpoints,<br />
+And step each line,<br />
+Until we find out why!<br />
+<br />
+Do you wanna fix a bug here?<br />
+It doesn’t have to be scary…<br />
+<br />
+Do you wanna test and deploy now?<br />
+Come on, let’s make it shine!<br />
+We’ve waited long enough to ship this build,<br />
+The time is right,<br />
+The finish line’s in sight!<br />
+<br />
+Just a few more small refinements,<br />
+Then we’re done,<br />
+And everything will run just fine!<br />
+<br />
+Do you wanna test and deploy now?<br />
+Or finally ship it live? 🚀<br />
+</p>
 
 ###
 
