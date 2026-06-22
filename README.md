@@ -124,3 +124,4 @@ Olaf: *"Ooooh, I love warm coffees!"* ☕
 
 > 💙 *Thanks for melting my icy deadlines with your support!*
 
+<img width="1608" height="454" alt="image" src="https://github.com/user-attachments/assets/b0a2e451-2dbc-4cbf-b08d-c2f91c77688c" />
